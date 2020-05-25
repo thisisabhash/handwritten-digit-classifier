@@ -1,5 +1,5 @@
 # Handwritten Digit Classifier
-Java implemenation of a 2-layer, feed-forward neural network trained with back-propagation algorithm for recognizing images of handwritten digits.
+Java implementation of a 2-layer, feed-forward neural network trained with back-propagation algorithm for recognizing images of handwritten digits.
 
 ## Dataset
 The dataset is called Semeion (https://archive.ics.uci.edu/ml/datasets/Semeion+Handwritten+Digit). It contains 1,593 binary images of size 16 x 16 that each contain one handwritten digit. Each example image is classified as one of the three possible digits: 6, 8 or 9.
